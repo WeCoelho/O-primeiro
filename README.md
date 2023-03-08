@@ -1,2 +1,4 @@
-# O primeiro
- Primeiro Registro ( curso github)
+# O primeiro!
+ Primeiro Registro ( curso GitHub)
+
+ Primeiro repositório do curso
